@@ -1,0 +1,43 @@
+# Importação global: 10 professores e 30 alunos
+# Formato professor: TEACHER|numero|nome|dataNascimento
+# Formato aluno: STUDENT|nome|dataNascimento
+TEACHER|101|João Costa|1980-09-18
+TEACHER|102|Maria Santos|1987-04-26
+TEACHER|103|Ana Silva|1973-01-15
+TEACHER|104|Pedro Almeida|1991-11-02
+TEACHER|105|Rita Ferreira|1984-06-09
+TEACHER|106|Carlos Rodrigues|1978-03-21
+TEACHER|107|Sofia Lopes|1989-12-12
+TEACHER|108|Miguel Sousa|1975-07-30
+TEACHER|109|Helena Carvalho|1993-05-17
+TEACHER|110|Paulo Ribeiro|1982-10-08
+STUDENT|Ana Martins|2008-03-12
+STUDENT|Bruno Almeida|2007-11-25
+STUDENT|Carla Ferreira|2009-01-08
+STUDENT|Diogo Santos|2008-07-19
+STUDENT|Eva Rodrigues|2007-05-30
+STUDENT|Fábio Costa|2009-09-14
+STUDENT|Gonçalo Lopes|2008-12-02
+STUDENT|Helena Sousa|2007-02-21
+STUDENT|Inês Carvalho|2009-06-18
+STUDENT|João Pereira|2008-10-05
+STUDENT|Leonor Gomes|2007-08-11
+STUDENT|Miguel Correia|2009-04-23
+STUDENT|Nádia Ribeiro|2008-01-17
+STUDENT|Oscar Monteiro|2007-12-29
+STUDENT|Patrícia Nunes|2009-03-09
+STUDENT|Rafael Teixeira|2008-05-16
+STUDENT|Sara Marques|2007-07-04
+STUDENT|Tiago Barros|2009-11-27
+STUDENT|Vera Cardoso|2008-09-01
+STUDENT|Xavier Neves|2007-04-13
+STUDENT|Alice Matos|2009-02-15
+STUDENT|Bernardo Faria|2008-06-24
+STUDENT|Catarina Melo|2007-10-07
+STUDENT|Duarte Coelho|2009-08-31
+STUDENT|Filipa Andrade|2008-04-20
+STUDENT|Gil Azevedo|2007-06-12
+STUDENT|Marta Pires|2009-12-03
+STUDENT|Nuno Reis|2008-02-28
+STUDENT|Sofia Tavares|2007-09-19
+STUDENT|Tomás Morais|2009-05-06
