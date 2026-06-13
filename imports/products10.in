@@ -1,0 +1,14 @@
+# Ficheiro de teste com 10 produtos
+# Formato:
+# PRODUCT|categoria|nome|preco|stock|campoEspecifico
+# FOOD -> data de validade | ELECTRONICS -> meses de garantia | CLOTHING -> tamanho
+PRODUCT|CLOTHING|T-shirt preta|14.90|10|M
+PRODUCT|ELECTRONICS|Suporte portátil ajustável|16.50|17|12
+PRODUCT|CLOTHING|Casaco impermeável|59.90|3|L
+PRODUCT|ELECTRONICS|Pen USB 64GB|8.49|35|12
+PRODUCT|ELECTRONICS|Router Wi-Fi|49.99|6|36
+PRODUCT|FOOD|Atum em lata|1.65|50|2028-03-12
+PRODUCT|FOOD|Iogurte natural|0.89|35|2026-06-15
+PRODUCT|FOOD|Massa esparguete 500g|1.20|30|2027-01-18
+PRODUCT|ELECTRONICS|Colunas Bluetooth|34.50|8|24
+PRODUCT|CLOTHING|Sweatshirt cinzenta|34.90|12|S

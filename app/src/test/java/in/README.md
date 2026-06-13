@@ -1,0 +1,1 @@
+# Pasta com os comandos de teste de entrada da aplicação. Não apagar
